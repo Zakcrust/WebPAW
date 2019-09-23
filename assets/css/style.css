@@ -42,9 +42,15 @@ h1{
 .jumbotron{
     height: 600px;
     width: 100%;
+<<<<<<< HEAD
     background-image: url(../img/image.jpg);
     background-size: cover;
     background-position: center;
+=======
+    background-image: url(../img/jumbotron.JPG);
+    background-size: cover;
+    background-position: bottom;
+>>>>>>> mengganti jumbotron dan membenarkan contact
     box-shadow: inset 0px -300px 120px -120px white;
 }
 
@@ -144,6 +150,10 @@ h1{
       background: #036;
       color: white;
       text-align: center;
+<<<<<<< HEAD
+=======
+      padding-bottom: 50px;
+>>>>>>> mengganti jumbotron dan membenarkan contact
   }
 
   .contact h2{
@@ -156,3 +166,22 @@ h1{
   .contact img {
       height: 80px;
   }
+<<<<<<< HEAD
+=======
+
+  .ct .text{
+      display: block;
+  }
+
+  .ct p{
+      display: inline;
+  }
+
+  .ct img{
+      margin: 50px;;
+  }
+
+  .ct p{
+      margin: 20px;
+  }
+>>>>>>> mengganti jumbotron dan membenarkan contact
